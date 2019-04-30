@@ -1,9 +1,9 @@
 {
   "nodes": [
-    {"id": "VMware", "count": 1, "type": "Company"},
+    {"id": "COMP", "count": 1, "type": "Company"},
     {"id": "AWS", "count": 2, "type": "Company"}
   ],
   "links": [
-    {"from": "VMware", "to": "AWS"}
+    {"from": "COMP", "to": "AWS"}
   ]
 }
